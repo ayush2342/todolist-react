@@ -61,4 +61,4 @@ bin.png: Delete icon used in the application. It is placed in the src/components
 Please refer to the video demonstration for a walkthrough of the application features and code explanation. The video is available at: https://www.youtube.com/watch?v=gZ7kLgBJGyw
 
 # Hosting
-The application is hosted at https://ayush2342.github.io/todolist-react.
+The application is hosted at https://ayush2342.github.io/todolist-react
